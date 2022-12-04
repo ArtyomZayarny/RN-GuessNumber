@@ -104,7 +104,8 @@ const styles = StyleSheet.create({
   },
   screen: {
     padding: 30,
-    height: '100%',
+    display: 'flex',
+    alignItems: 'center',
   },
   buttonsContainer: {
     flexDirection: 'row',
